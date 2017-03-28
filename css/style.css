@@ -855,6 +855,24 @@ p {
 	line-height: 35px;
 	color:rgba(0, 0, 0, 0.88);
 }
+.blog-button{
+	outline: none;
+	color: #fff;
+	padding: 0.6em 1em;
+	font-size: 1.1em;
+	margin: 1em 0 0 0;
+	-webkit-appearance: none;
+	background: #f78800;
+	border: 2px solid #f78800;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	transition: 0.5s all;
+	width: 100%;
+}
+.blog-button:hover{
+	background: none;
+	color: #f78800;
+}
 /*-- //Skills bar effects --*/
 /*-- services --*/
 .serv-wthree-row {
